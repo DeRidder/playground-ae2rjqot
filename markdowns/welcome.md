@@ -1,15 +1,31 @@
 # Welkom bij de Mobiel.nl Masterclass!
 
-In deze interactieve tutorial neem ik je mee in de wondere wereld van het *programmeren*.
+In deze interactieve tutorial neem ik je mee in de wondere wereld van het programmeren.
 
-Maar wat is dat nu eigenlijk, programmeren? Als je een woordenboek erbij pakt komt het
-er vrij vertaald op neer dat je *software* schrijft om o.a. een computer, laptop, tablet
-of telefoon je stoutste dromen uit te laten komen.
+```ruby
+Hello World!
 
-Met software kan je dus magie verrichten, maar dan is het wel handig om te weten wat
-deze term nu eigenlijk betekent. Software is als een recept in een kookboek, alleen ziet
-het eruit als de Matrix en is het voor computers. Je volgt netjes de instructies, in dit
-geval bestaande uit regels code, die je stapsgewijs leiden naar een fantastisch gerecht.
+```
 
-Laten we als eerste stap maar eens gaan kijken wat voor een ingredienten we tot onze
-beschikking hebben.
+Maar wat is dat nu eigenlijk, programmeren?
+
+> pro·gram·me·ren (programmeerde, heeft geprogrammeerd)
+1 (computer) programma's maken
+2 (computer) een concrete verzameling instructies die een computer uitvoert
+
+Wat dat betreft is programmeren net als koken van een nieuw gerecht. Je kiest een
+gerecht uit een kookboek en voert alle instructies uit die je naar een heerlijk
+avondmaal zullen leiden.
+
+```ruby
+brand = Brand.find_by(name: 'Samsung')
+phone = Phone.find_by(name: 'Galaxy S8', brand: brand)
+
+phone.phone_versions.each do |phone_version|
+  puts "#{brand.name} #{phone.name} #{phone_version.name}"
+end
+```
+
+Oke, er is wel een verschil. Het bovenstaande stuk ziet er uit alsof het uit de
+set van de Matrix komt, terwijl een kookboek glashelder is. Hoog tijd om daar
+verandering in te gaan brengen!
