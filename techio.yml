@@ -1,7 +1,9 @@
 title: Ruby Project
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+  - title: Welcome
+    statement: markdowns/welcome.md
+  - title: Lesson 1
+    statement: markdowns/lesson1.md
 projects:
   ruby:
     root: /ruby-project
