@@ -1,1 +1,1 @@
-puts "TECHIO> terminal"
+"TECHIO> terminal"
