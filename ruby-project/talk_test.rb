@@ -1,1 +1,1 @@
-puts "TECHIO> terminal"
+puts "TECHIO> open -s /ruby-project/www hello_world.html"
