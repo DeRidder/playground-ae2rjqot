@@ -2,11 +2,11 @@ title: Ruby Project
 plan:
   - title: Welkom
     statement: markdowns/welcome.md
-  - title: "Les 1: Data types"
+  - title: Data types
     statement: markdowns/1_data_types.md
-  - title: "Les 2: Strings en Symbols"
+  - title: Strings en Symbols
     statement: markdowns/2_strings_and_symbols.md
-  - title: "Les 3: Numbers"
+  - title: Numbers
     statement: markdowns/3_numbers.md
 projects:
   ruby:
