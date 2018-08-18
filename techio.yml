@@ -3,7 +3,7 @@ plan:
   - title: Welkom
     statement: markdowns/welcome.md
   - title: Let's talk
-    statement: communication.md
+    statement: markdowns/communication.md
   - title: Data types
     statement: markdowns/1_data_types.md
   - title: Strings en Symbols
