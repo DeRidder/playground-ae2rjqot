@@ -1,1 +1,0 @@
-"TECHIO> terminal [OPTIONS]"
