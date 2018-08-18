@@ -10,11 +10,11 @@ Hello World!
 Maar wat is dat nu eigenlijk, programmeren?
 
 > pro·gram·me·ren (programmeerde, heeft geprogrammeerd)
-1 (computer) programma's maken
-2 (computer) een concrete verzameling instructies die een computer uitvoert
+> 1 (computer) programma's maken
+> 2 (computer) een concrete verzameling instructies die een computer uitvoert
 
-Wat dat betreft is programmeren net als koken van een nieuw gerecht. Je kiest een
-gerecht uit een kookboek en voert alle instructies uit die je naar een heerlijk
+Wat dat betreft is programmeren net als het koken van een nieuw gerecht. Je kiest
+een gerecht uit een kookboek en voert alle instructies uit die je naar een heerlijk
 avondmaal zullen leiden.
 
 ```ruby
@@ -26,6 +26,6 @@ phone.phone_versions.each do |phone_version|
 end
 ```
 
-Oke, er is wel een verschil. Het bovenstaande stuk ziet er uit alsof het uit de
-set van de Matrix komt, terwijl een kookboek glashelder is. Hoog tijd om daar
-verandering in te gaan brengen!
+Oke, er is wel een verschil. Het bovenstaande stuk ziet er uit alsof het rechtstreeks
+uit de Matrix komt, terwijl een kookboek glashelder is. Hoog tijd om daar verandering
+in te gaan brengen!
