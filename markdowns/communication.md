@@ -1,5 +1,4 @@
 
-@[Let's talk]({stubs: ["talk.rb"], "command": "ruby talk_test.rb"})
 
 <iframe src="https://tech.io/snippet-widget/BjNpWPw" width="100%" frameborder="0" scrolling="no" allowtransparency="true" style="visibility: hidden;">
 </iframe>
