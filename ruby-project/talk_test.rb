@@ -1,1 +1,1 @@
-puts "TECHIO> terminal -i ruby project/target/talk.rb"
+puts "TECHIO> terminal"
